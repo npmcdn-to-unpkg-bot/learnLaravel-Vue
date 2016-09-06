@@ -34,7 +34,7 @@
         </div>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/1.0.26/vue.js" charset="utf-8"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/vue-resource/0.9.3/vue-resource.js" charset="utf-8"></script>
-        <script src="https://npmcdn.com/vuetable@1.3.1"></script>
+        <script src="https://unpkg.com/vuetable@1.3.1"></script>
         <script src="{{ elixir('js/main.js') }}"></script>
 
     </body>
